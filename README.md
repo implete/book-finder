@@ -1,6 +1,6 @@
 # Book finder
 
-Book finder is a simple book search app with dynamic search functionality. It was created using React, an eternal API and Bootstrap.
+Book finder is a simple book search app with dynamic search functionality. It was created using React, an external API, SASS and Bootstrap.
 
 ## Demo
 
@@ -16,6 +16,6 @@ Book finder is a simple book search app with dynamic search functionality. It wa
 
 ### Assets
 
-[Open Library](https://openlibrary.org/developers/api)
-[React-Bootstrap](https://react-bootstrap.github.io/)
-[Placeholder.com](https://placeholder.com/)
+[Open Library](https://openlibrary.org/developers/api)<br />
+[React-Bootstrap](https://react-bootstrap.github.io/)<br />
+[Placeholder.com](https://placeholder.com/)<br />
